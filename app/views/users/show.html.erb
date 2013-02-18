@@ -1,0 +1,15 @@
+<div>
+
+  <h1>Listing Users</h1>
+
+  <ol>
+    <% @users.each do |i|  %>
+    <li>
+      Name - <%= i.name  %><br><br>
+      Email - <%= i.email  %><br><br>
+      Provider - <%= i.authorizations.first.provider  %><br><br>
+    </li>
+    <%	 end %>
+  </ol>
+
+</div>

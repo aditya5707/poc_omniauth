@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="RailsFacetType" name="Ruby on Rails">
+      <configuration>
+        <RAILS_FACET_CONFIG_ID NAME="RAILS_FACET_SUPPORT_REMOVED" VALUE="false" />
+        <RAILS_FACET_CONFIG_ID NAME="RAILS_TESTS_SOURCES_PATCHED" VALUE="true" />
+        <RAILS_FACET_CONFIG_ID NAME="RAILS_FACET_APPLICATION_ROOT" VALUE="$MODULE_DIR$" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="GemRequirementsHolder" version="3">
+    <requirement>
+      <requirement>
+        <dependency name="coffee-rails" version="3.2.1" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="hirb" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="jquery-rails" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="mysql2" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="omniauth" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="omniauth-facebook" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="omniauth-linkedin" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="rails" version="3.2.11" bound="EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="rb-readline" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="sass-rails" version="3.2.3" bound="LATEST_IN_BRANCH" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="therubyracer" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="thin" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="uglifier" version="1.0.3" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/tmp" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rake (v0.9.2.2, /var/lib/gems/1.8/gems/rake-0.9.2.2)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] bundler (v1.1.4, /var/lib/gems/1.8/gems/bundler-1.1.4)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] jquery-rails (v2.0.2, /var/lib/gems/1.8/gems/jquery-rails-2.0.2)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] coffee-rails (v3.2.2, /var/lib/gems/1.8/gems/coffee-rails-3.2.2)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] mysql2 (v0.3.11, /var/lib/gems/1.8/gems/mysql2-0.3.11)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] uglifier (v1.2.4, /var/lib/gems/1.8/gems/uglifier-1.2.4)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] sass-rails (v3.2.5, /var/lib/gems/1.8/gems/sass-rails-3.2.5)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rack (v1.4.1, /var/lib/gems/1.8/gems/rack-1.4.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] multi_json (v1.3.6, /var/lib/gems/1.8/gems/multi_json-1.3.6)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] activemodel (v3.2.5, /var/lib/gems/1.8/gems/activemodel-3.2.5)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] sass (v3.1.19, /var/lib/gems/1.8/gems/sass-3.1.19)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] builder (v3.0.0, /var/lib/gems/1.8/gems/builder-3.0.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] activesupport (v3.2.5, /var/lib/gems/1.8/gems/activesupport-3.2.5)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rack-test (v0.6.1, /var/lib/gems/1.8/gems/rack-test-0.6.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] coffee-script (v2.2.0, /var/lib/gems/1.8/gems/coffee-script-2.2.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] thor (v0.15.2, /var/lib/gems/1.8/gems/thor-0.15.2)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] sprockets (v2.1.3, /var/lib/gems/1.8/gems/sprockets-2.1.3)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] i18n (v0.6.0, /var/lib/gems/1.8/gems/i18n-0.6.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] json (v1.7.3, /var/lib/gems/1.8/gems/json-1.7.3)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] tilt (v1.3.3, /var/lib/gems/1.8/gems/tilt-1.3.3)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rdoc (v3.12, /var/lib/gems/1.8/gems/rdoc-3.12)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] railties (v3.2.5, /var/lib/gems/1.8/gems/railties-3.2.5)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] execjs (v1.4.0, /var/lib/gems/1.8/gems/execjs-1.4.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] actionpack (v3.2.5, /var/lib/gems/1.8/gems/actionpack-3.2.5)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] hike (v1.2.1, /var/lib/gems/1.8/gems/hike-1.2.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] journey (v1.0.3, /var/lib/gems/1.8/gems/journey-1.0.3)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rack-cache (v1.2, /var/lib/gems/1.8/gems/rack-cache-1.2)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] erubis (v2.7.0, /var/lib/gems/1.8/gems/erubis-2.7.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rack-ssl (v1.3.2, /var/lib/gems/1.8/gems/rack-ssl-1.3.2)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] coffee-script-source (v1.3.3, /var/lib/gems/1.8/gems/coffee-script-source-1.3.3)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] omniauth (v1.1.0, /var/lib/gems/1.8/gems/omniauth-1.1.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] thin (v1.5.0, /var/lib/gems/1.8/gems/thin-1.5.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] hirb (v0.6.2, /var/lib/gems/1.8/gems/hirb-0.6.2)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] eventmachine (v1.0.0, /var/lib/gems/1.8/gems/eventmachine-1.0.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] hashie (v1.2.0, /var/lib/gems/1.8/gems/hashie-1.2.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] daemons (v1.1.9, /var/lib/gems/1.8/gems/daemons-1.1.9)" level="application" />
+  </component>
+</module>
+
